@@ -1,0 +1,21 @@
+{
+  "name": "spaf/simp-daily",
+  "description": "Set of different entities like phone numbers, emails, etc.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ivan Ponomarev",
+      "email": "pi@spaf.dev"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "spaf\\simputils\\daily\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0",
+    "spaf/simputils": "^1"
+  }
+}

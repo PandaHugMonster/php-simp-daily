@@ -1,0 +1,8 @@
+{
+  "init": {
+    "entrypoint": "spaf\\simputils\\daily\\init\\ExtInitConfig",
+    "dependencies": [
+
+    ]
+  }
+}
